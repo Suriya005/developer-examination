@@ -1,13 +1,7 @@
-# Hello world !
+# For test only !
 ## please read this document
 
-1. For the backend developer [Clik here!!](backend.md)
-2. For the frontend developer [Clik here!!](frontend.md)
-3. For the full stack developer read both.
+1. npm i
+2. node app.js
+3. enjoyyy !!!
 
-## Expectation
-- Code Correcly
-- Understanding
-- Researching
-- Clean Code
-- Mindset
