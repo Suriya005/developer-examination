@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 const {config} = require("../config/config.js");
-console.log(config.username);
 
 mongoose.connect(
   "mongodb+srv://" + config.username + ":"+ config.password + "@recruitment.mos8yva.mongodb.net/"+ config.database,
